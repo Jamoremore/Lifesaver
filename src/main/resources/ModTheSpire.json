@@ -1,0 +1,11 @@
+{
+  "modid": "life-saver",
+  "name": "连胜死亡拯救",
+  "author_list": ["李华不吃牛肉"],
+  "description": "在你即将死亡时，不是直接删除存档而是弹窗询问你是否要sl。",
+  "credits": "",
+  "version": "0.0.1",
+  "sts_version": "03-07-2022",
+  "mts_version": "3.24.0",
+  "dependencies": ["basemod"]
+}
